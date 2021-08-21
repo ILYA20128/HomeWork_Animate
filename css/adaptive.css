@@ -1,0 +1,117 @@
+/*==================================== 768 - 1018 ======================================*/
+
+@media screen and (max-width: 1018px) {
+	.title {
+		font-size: 62px;
+		margin-left: 53px;
+	}
+	.title span::before {
+		width: 26px;
+		height: 28px;
+		left: 11px;
+		bottom: 25px;
+	}
+}
+
+/*==================================== 701 - 757 ======================================*/
+
+@media screen and (max-width: 757px) {
+	.header {
+		align-items: center;
+	}
+	.links_right {
+		padding-top: 0;
+	}
+	.title {
+		font-size: 57px;
+	}
+	.title span::before {
+		width: 21px;
+		height: 23px;
+		left: 11px;
+		bottom: 23px;
+	}
+}
+
+/*==================================== 610 - 700 ======================================*/
+
+@media screen and (max-width: 700px) {
+	.title {
+		font-size: 49px;
+	}
+	.title span::before {
+		width: 18px;
+		height: 20px;
+		left: 9px;
+		bottom: 20px;
+	}
+	.text {
+		font-size: 45px;
+	}
+}
+
+/*==================================== 425 - 609 ======================================*/
+
+@media screen and (max-width: 609px) {
+	.title {
+		font-size: 32px;
+		margin-left: 25px;
+	}
+	.title span::before {
+		width: 12px;
+		height: 14px;
+		left: 6px;
+		bottom: 13px;
+	}
+	.text {
+		font-size: 30px;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.mail_message {
+		display: none;
+	}
+}
+
+/*==================================== 375 - 424 ======================================*/
+
+@media screen and (max-width: 424px) {
+	.title {
+		font-size: 30px;
+		margin-left: 29px;
+	}
+	.title span::before {
+		width: 11px;
+		height: 13px;
+		left: 6px;
+		bottom: 12px;
+	}
+	.text {
+		font-size: 28px;
+	}
+	.apps img {
+		width: 150px;
+	}
+}
+
+/*==================================== 320 - 374 ======================================*/
+
+@media screen and (max-width: 374px) {
+	.title {
+		font-size: 25px;
+		margin-left: 20px;
+	}
+	.title span::before {
+		width: 10px;
+		height: 12px;
+		left: 4px;
+		bottom: 9px;
+	}
+	.text {
+		font-size: 24px;
+	}
+	.apps img {
+		width: 130px;
+	}
+}
